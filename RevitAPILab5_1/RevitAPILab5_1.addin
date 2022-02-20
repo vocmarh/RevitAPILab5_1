@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab5_1.dll"</Assembly>
+		<AddInId>C7A50614-4B39-4F6C-8234-7746B0230492</AddInId>
+		<FullClassName>RevitAPILab5_1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Кнопка</Text>
+	</AddIn>
+</RevitAddIns>
